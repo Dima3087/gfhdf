@@ -1,0 +1,20 @@
+.els{
+    color: blue;
+    font-size: 60px;
+    text-decoration: overline;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+
+a[href]{
+color: green;
+h1,p{
+    
+}
+
+
+
+}
